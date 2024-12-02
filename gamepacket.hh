@@ -1,4 +1,3 @@
-``cpp
 #ifndef __GAMEPACKET_HPP__
 #define __GAMEPACKET_HPP__
 #include <string>
@@ -283,4 +282,3 @@ namespace KHPS
 	};
 }
 #endif // !__GAMEPACKET_HPP__
-``
